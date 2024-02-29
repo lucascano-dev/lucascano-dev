@@ -34,8 +34,26 @@ Desarrollado en Wordpress, aplicando mejoras en HTML5, CSS3 y funcionalidades en
 
 Conocelo desde aquí: 👉 [Idea Innova: www.ideainnova.com.ar](https://www.ideainnova.com.ar)  😃
 
-Próximamente mi Portfolio contando más sobre mis proyectos 😎🤗
+## Próximamente mi Portfolio contando más sobre mis proyectos 😎🤗
 
+
+
+<!-- ![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_repositorio.svg?style=social)
+
+## Stats
+
+| Stat | Count |
+|---|---|
+| Stars | [Number of stars] |
+| Forks | [Number of forks] |
+| Commits | [Number of commits] |
+| Pull Requests | [Number of pull requests] |
+| Issues | [Number of issues] |
+
+![GitHub contributors](https://img.shields.io/github/contributors/lucascano-dev/tu_repositorio.svg)
+![GitHub stars](https://img.shields.io/github/stars/lucascano-dev/tu_repositorio.svg?style=social)
+
+-->
 
 
 .
