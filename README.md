@@ -1,52 +1,46 @@
-### Hi there 👋
+# Hola, soy Lucas Cano😉
 
-¡Hola!
-Soy [Tu nombre], un/a [Tu profesión o área de interés] apasionado/a por [Tus áreas de interés o hobbies].
+¡Bienvenido/a a mi perfil de GitHub! 👋
 
-En este perfil de GitHub, puedes encontrar:
+Desarrollador VB.NET y Web Full Stack. Apasionado por la tecnología y comprometido con la creación de proyectos que tengan buen impacto en la vida de las personas. Mi enfoque es versátil, puedo trabajar de forma independiente y disfruto especialmente colaborando en equipos para lograr soluciones innovadoras y efectivas.
 
-** Repositorios:**
+## Sobre mí
 
-[Nombre del repositorio 1]: [Descripción breve del repositorio 1]
-[Nombre del repositorio 2]: [Descripción breve del repositorio 2]
-[Nombre del repositorio 3]: [Descripción breve del repositorio 3]
-** Proyectos:**
+Perseverante. Comencé a investigar sobre programación por un proyecto personal y en mi curiosidad por conocer y aplicar cada aprendizaje nuevo para alcanzar mi objetivo, me contacté con personas dentro del mundo IT y descubrí así, una pasión por el desarrollo de sistemas y comprendí también, la importancia y lo que implica el trabajo en equipo.
 
-[Nombre del proyecto 1]: [Descripción breve del proyecto 1] ([Enlace al proyecto 1])
-[Nombre del proyecto 2]: [Descripción breve del proyecto 2] ([Enlace al proyecto 2])
-[Nombre del proyecto 3]: [Descripción breve del proyecto 3] ([Enlace al proyecto 3])
-️ Blog:
+- 💼 Actualmente trabajando de lo que más me gusta 🚀
+- 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías
+- 📫 Puedes contactarme en lucas_cano@outlook.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/lucascano31)
 
-[Título del artículo 1]: [Resumen del artículo 1] ([Enlace al artículo 1])
-[Título del artículo 2]: [Resumen del artículo 2] ([Enlace al artículo 2])
-[Título del artículo 3]: [Resumen del artículo 3] ([Enlace al artículo 3])
-** Habilidades:**
+## Skills 😊
 
-[Habilidad 1]
-[Habilidad 2]
-[Habilidad 3]
-[Habilidad 4]
-¡No dudes en contactarme!
+- Tecnologías & Framworks:
+  - .NET
+  - MySQL
+  - PHP
+  - HTML5
+  - CSS3
+  - Wordpress
+  - Bootstrap
+  - Javascript
+  - Typescript
+  - React
+  - Styled Components
+  - Node.js
 
-[Sitio web personal] (https://zyro.com/es/blog/pagina-web-personal/)
-[Correo electrónico] (https://www.google.com/intl/es/gmail/about/)
-[Twitter] (https://twitter.com/?lang=en)
-[LinkedIn] (https://www.linkedin.com/login)
-¡Gracias por visitarme!
+## Mi sitio freelance
 
----
+Desarrollado en Wordpress, aplicando mejoras en HTML5, CSS3 y funcionalidades en Javascript en el que se ofrece un sistema desarrollado completamente en .NET ⚡
 
-Añade contenido adicional:
+Conocelo desde aquí: 👉 [Idea Innova: www.ideainnova.com.ar](https://www.ideainnova.com.ar)  😃
 
-Foto de perfil: Una foto tuya o una imagen que represente tu marca personal.
-Biografía: Una breve descripción de ti mismo, tus intereses y tu experiencia.
-Estadísticas de GitHub: Muestra tus estadísticas de GitHub, como el número de estrellas, forks y commits.
-Enlaces a otras plataformas: Agrega enlaces a tus otras plataformas sociales, como Twitter, LinkedIn o tu blog personal.
-Personaliza el diseño: Usa Markdown para personalizar el diseño de tu README.
-Recursos adicionales:
+Próximamente mi Portfolio contando más sobre mis proyectos 😎🤗
 
-Guía de GitHub para personalizar tu perfil: [se quitó una URL no válida]
-Ejemplos de README de perfil: [se quitó una URL no válida]
+
+
+.
+
+
 <!--
 **lucascano-dev/lucascano-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
