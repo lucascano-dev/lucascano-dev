@@ -2,6 +2,9 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! 👋
 
+![Imagen sigue tus sueños](https://c.wallhere.com/photos/bf/b4/motivational_quote_minimalism-215203.jpg!d)
+
+
 Desarrollador VB.NET y Web Full Stack. Apasionado por la tecnología y comprometido con la creación de proyectos que tengan buen impacto en la vida de las personas. Mi enfoque es versátil, puedo trabajar de forma independiente y disfruto especialmente colaborando en equipos para lograr soluciones innovadoras y efectivas.
 
 ## Sobre mí
