@@ -39,6 +39,9 @@ Conocelo desde aquí: 👉 [Idea Innova: www.ideainnova.com.ar](https://www.idea
 
 ## Próximamente mi Portfolio contando más sobre mis proyectos 😎🤗
 
+Aquí abajo, algunos de mi repositorios, y actualizando...⚡ 👇
+
+
 
 
 <!-- ![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_repositorio.svg?style=social)
