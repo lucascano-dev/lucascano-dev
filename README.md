@@ -11,9 +11,9 @@
 
 Perseverante. Comencé a investigar sobre programación por un proyecto personal y en mi curiosidad por conocer y aplicar cada aprendizaje nuevo para alcanzar mi objetivo, me contacté con personas dentro del mundo IT y descubrí así, una pasión por el desarrollo de sistemas y comprendí también, la importancia y lo que implica el trabajo en equipo.
 
-- 💼 Actualmente trabajando de lo que más me gusta 🚀
+- 💼 Actualmente trabajando de lo que más me gusta 😃🚀
 - 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías
-- 📫 Puedes contactarme en lucas_cano@outlook.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/lucascano31)
+- 📫 Puedes mirar mi perfil en 👉 [LinkedIn](https://www.linkedin.com/in/lucascano31) y conocer un poco más sobre mí. 😉
 
 ## Skills 😊
 
