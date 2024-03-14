@@ -40,8 +40,13 @@ Conocelo desde aquí: 👉 [Idea Innova: www.ideainnova.com.ar](https://www.idea
 
 ## Próximamente mi Portfolio contando más sobre mis proyectos 😎🤗
 
-Aquí abajo, algunos de mi repositorios, y actualizando...⚡ 👇
+Aquí abajo, algunos de mi repositorios, y actualizando...⚡ 
 
+[Mis repositorios 🚀](https://github.com/lucascano-dev?tab=repositories)
+
+Y aquí algunos que se van destacando según su actividad 👇
+
+.
 
 
 
@@ -63,7 +68,6 @@ Aquí abajo, algunos de mi repositorios, y actualizando...⚡ 👇
 -->
 
 
-.
 
 
 <!--
