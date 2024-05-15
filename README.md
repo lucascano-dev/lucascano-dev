@@ -1,7 +1,7 @@
 # Hola, soy Lucas Cano 👋
 
 
-😃 Desarrollador .NET y Web Full Stack. Apasionado por la tecnología y comprometido con la creación de proyectos que tengan buen impacto en la vida de las personas, llegar a todos y fomentar la inclusión 💜
+😃 Desarrollador .NET y Web Full Stack. Apasionado por la tecnología y comprometido con la creación de proyectos que tengan buen impacto en la vida de las personas, llegar a todos y fomentar la inclusión a la tecnología a personas con capacidades diferentes 💜
 
 ![Imagen sigue tus sueños](https://c.wallhere.com/photos/bf/b4/motivational_quote_minimalism-215203.jpg!f)
 
