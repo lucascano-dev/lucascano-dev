@@ -40,9 +40,9 @@ Lo que comenzó como una simple curiosidad adolescente terminó convirtiéndose 
   - Node.js
   - Atributos WAI-ARIA 😃
 
-## Mi sitio freelance
+## Mi proyecto que camina
 
-Desarrollado en Wordpress, aplicando mejoras en HTML5, CSS3 y funcionalidades en Javascript en el que se ofrece un sistema desarrollado completamente en .NET ⚡
+**IDEA INNOVA** es el nombre de mi proyecto persona de desarrollo de software especializada en crear soluciones tecnológicas a medida para empresas, comercios, profesionales y emprendedores. Con la idea firme de transformar necesidades reales en herramientas digitales modernas, integrando inteligencia artificial, automatizaciones y sistemas para optimizar procesos, reducir errores y potenciar el crecimiento. Mi enfoque combina innovación, eficiencia y tecnología adaptada a la forma en que cada organización trabaja. ⚡
 
 Conocelo desde aquí: 👉 [Idea Innova: www.ideainnova.com.ar](https://www.ideainnova.com.ar)  😃
 
