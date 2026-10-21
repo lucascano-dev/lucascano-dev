@@ -9,7 +9,15 @@
 
 ## Sobre mí
 
-Perseverante. Comencé a investigar sobre programación por un proyecto personal y en mi curiosidad por conocer y aplicar cada aprendizaje nuevo para alcanzar mi objetivo, me contacté con personas dentro del mundo IT y descubrí así, una pasión por el desarrollo de sistemas y comprendí también, la importancia y lo que implica el trabajo en equipo.
+Perseverante y curioso por naturaleza.
+
+Mi pasión por la programación nació casi sin querer, allá por 2004, durante mi adolescencia. Todo comenzó con un proyecto escolar que debía resolver en papel, pero descubrí que también podía solucionarlo mediante software.
+
+Esa curiosidad me llevó a explorar de forma autodidacta la lógica de programación, distintos lenguajes y herramientas. Aunque finalmente presenté el trabajo en papel😁.
+
+Desde entonces, nunca dejé de aprender, experimentar y superar nuevos desafíos. En ese camino también tuve la oportunidad de conectar con personas del mundo IT, compartir conocimientos y comprender el verdadero valor del trabajo en equipo.
+
+Lo que comenzó como una simple curiosidad adolescente terminó convirtiéndose en una pasión que me acompaña hasta hoy.
 
 - 💼 Actualmente trabajando de lo que más me gusta 😃🚀
 - 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías
